@@ -1,2 +1,2 @@
 # Workshop
-Workshop on Git &amp;GitHub.
+Workshop on Git &amp; GitHub.
